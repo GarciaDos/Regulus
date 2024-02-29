@@ -1,3 +1,3 @@
-#Regulus
+# REGULUS 
 
-App Dev
+App Dev ACTIVITY 1
